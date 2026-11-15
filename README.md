@@ -18,7 +18,9 @@ MCI Club
 MCI Mag
 MCI Offers
 MCI Package
+MCI Rond
 MCI Simcard
+MCI VoLTE
 MCI shop
 ```
 > Also available as a [text file](iran_mno_blocklist.txt) which can be imported into [Fossify Messages](https://github.com/FossifyOrg/Messages).
