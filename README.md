@@ -8,6 +8,7 @@ HAMRAH AVAL
 HAMRAHAVAL
 HAMRAH_AVAL
 HamrahYar
+HamraheMan
 Irancell
 Irancell4U
 IrancellFIN
